@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  html {
+    font-size: 62.5%;
+  }
+  main {
+    text-align: center;
+    background-color: #ECECEC;
+    padding: 10px;
+    margin: 12px 5px;
+    border-radius: 0.7%;
+  }
+  #header {
+    padding: 20px;
+    line-height: 2;
+    font-size: 1.5rem;
+    font-family: Lobster, serif;
+  }
+  
+  figure img {
+    margin: auto;
+    max-width: 100%;
+    display: block;
+  }
+  figure {
+    background-color: white;
+    padding: 1rem;
+  }
+  figcaption {
+    font-size: 1.3rem;
+    font-family: Pacifico;
+  }
+  
+  #tribute-info {
+    text-align: center;
+    font-size: 1.5rem;
+    line-height: 4rem;
+  }
+  
+  #tribute-info ul {
+      list-style-position: inside;=
+  }
+  
